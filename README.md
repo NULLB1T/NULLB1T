@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RoyalCats-IAmNevermore
-- 👀 I’m interested in Coding & Robotics
-- 🌱 I’m currently learning Rust
+//Currently studying Computer Science
+//FIRST Allumni
+//Mainly using Java
 
 <!---
 RoyalCats-IAmNevermore/RoyalCats-IAmNevermore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
